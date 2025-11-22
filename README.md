@@ -88,7 +88,8 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 215052" src="https://github.com/user-attachments/assets/2ed63fd3-1b7f-4dab-8cb2-e20021a44d94" />
 
 **RTL**
-<img width="1920" height="1080" alt="Screenshot 2025-11-22 215052" src="https://github.com/user-attachments/assets/50f08627-6341-4901-8598-7ece464b4ba6" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-22 214403" src="https://github.com/user-attachments/assets/11e83917-582b-434f-be2c-25cce4ac9ec5" />
+
 
 **Result:**
    Thus the different digital IC's are studied and the truth table for differentlogic gates are verified
