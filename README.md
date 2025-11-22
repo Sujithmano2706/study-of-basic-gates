@@ -68,18 +68,19 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by:Sujith Mano M  
  RegisterNumber: 25018328
-
+```
  module suji1(a,b,c1,c2,c3,c4,c5,c6,c7); 
-input a,b; 
-output c1,c2,c3,c4,c5,c6,c7; 
-not g1(c1,a); 
-and g2(c2,a,b); 
-or g3(c3,a,b); 
-nand g4(c4,a,b); 
-nor g5(c5,a,b); 
-xor g6(c6,a,b); 
-xnor g7(c7,a,b); 
-endmodule
+ input a,b; 
+ output c1,c2,c3,c4,c5,c6,c7; 
+ not g1(c1,a); 
+ and g2(c2,a,b); 
+ or g3(c3,a,b); 
+ nand g4(c4,a,b); 
+ nor g5(c5,a,b); 
+ xor g6(c6,a,b); 
+ xnor g7(c7,a,b); 
+ endmodule
+```
 **Logic symbol & Truthtable**
 <img width="545" height="823" alt="Screenshot 2025-11-22 221507" src="https://github.com/user-attachments/assets/ddb43860-118c-49b4-864c-0ddb2999b012" />
 <img width="621" height="864" alt="Screenshot 2025-11-22 221559" src="https://github.com/user-attachments/assets/e0cd97a4-4c87-452e-9fd2-8f2303bab38b" />
